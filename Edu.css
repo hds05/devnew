@@ -1657,7 +1657,8 @@ body {
     }
 
     .contact2 {
-        flex: 100%;
+        /* flex: 100%; */
+        margin: 10px;
     }
 }
 
